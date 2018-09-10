@@ -1,0 +1,19 @@
+.Image-Container {
+    height: 50px;
+    width: 50px;
+    float: left;
+    position: relative;
+}
+
+.Avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+
+.Icon {
+   position: absolute;
+   right: 0;
+   bottom: 0;
+   z-index:5;
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 19</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bookings-UI-build" transform="translate(-198.000000, -474.000000)">
+            <g id="Group-19" transform="translate(198.000000, 474.000000)">
+                <circle id="Oval-4" fill="#FFFFFF" cx="10" cy="10" r="10"></circle>
+                <g id="Components/Status/🖥📱request" transform="translate(2.000000, 2.000000)" fill="#118991">
+                    <g id="ic_schedule_black_24px">
+                        <g id="Group">
+                            <path d="M8,16 C3.58,16 0,12.42 0,8 C0,3.58 3.58,0 8,0 C12.42,0 16,3.58 16,8 C16,12.42 12.42,16 8,16 Z M8.5,3.5 C8.5,2.94771525 8.05228475,2.5 7.5,2.5 C6.94771525,2.5 6.5,2.94771525 6.5,3.5 L6.5,8.89483818 L10.5803691,11.4771159 C11.0470509,11.7724573 11.6647927,11.6335584 11.9601342,11.1668767 C12.2554756,10.7001949 12.1165767,10.082453 11.649895,9.78711159 L8.5,7.79368814 L8.5,3.5 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

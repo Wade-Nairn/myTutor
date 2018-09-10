@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bookings-UI-build" transform="translate(-198.000000, -956.000000)">
+            <g id="Group-11" transform="translate(198.000000, 956.000000)">
+                <circle id="Oval-4" fill="#FFFFFF" cx="10" cy="10" r="10"></circle>
+                <g id="Components/Status/🖥📱green" transform="translate(2.000000, 2.000000)" fill="#4CB337">
+                    <path d="M8,16 C3.6,16 0,12.4 0,8 C0,3.6 3.6,0 8,0 C12.4,0 16,3.6 16,8 C16,12.4 12.4,16 8,16 Z M12.9964049,4.81219724 L12.9657682,4.78245837 C12.5780374,4.40608911 11.9614469,4.40581324 11.5733794,4.78183539 L6.50917109,9.68885402 L4.02129037,7.28169075 C3.63315252,6.90614575 3.0169514,6.90664485 2.62942242,7.28281813 L2.59828115,7.31304687 C2.20878808,7.69112669 2.19953581,8.31336746 2.57761562,8.70286054 C2.58440133,8.70985109 2.5912906,8.71674036 2.59828115,8.72352606 L5.81265547,11.8437101 C6.20063555,12.2203212 6.81770663,12.2203212 7.20568671,11.8437101 L12.9964049,6.22267643 C13.3858979,5.84459661 13.3951502,5.22235584 13.0170704,4.83286277 C13.0102847,4.82587222 13.0033954,4.81898295 12.9964049,4.81219724 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
