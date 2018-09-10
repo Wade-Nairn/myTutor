@@ -1,9 +1,14 @@
 MyTutor code test
 
 To Use
-npm init
-npm install
-npm start
+
+clone or download the repo 
+open in your favorite editor
+using a terminal run
+  npm install
+  npm start
+
+follow the link to localhost
 
 Some notes about the project.
 
