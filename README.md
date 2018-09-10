@@ -5,8 +5,8 @@ To Use
 clone or download the repo 
 open in your favorite editor
 using a terminal run
-  npm install
-  npm start
+ - npm install
+ - npm start
 
 follow the link to localhost
 
